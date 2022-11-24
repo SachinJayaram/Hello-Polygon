@@ -5,7 +5,7 @@ A Polygon Starter Dapp using Alchemy.
 #### Modified from the following tutorial:
 https://wiki.polygon.technology/docs/develop/alchemy/#add-project-folders
 
-# 0. Environment Setup
+# Environment Setup
 
 Install fundamental environments, including node, web3, react, typescript, truffle, etc
 
